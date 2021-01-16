@@ -10,3 +10,6 @@ Arguments explanation.
   *Creates
     -> create app/components/people-list.hbs
     -> skip app/components/people-list.hbs
+
+3. In COMPONENT add markup
+4. 
